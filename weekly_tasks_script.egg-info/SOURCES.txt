@@ -1,0 +1,16 @@
+README.md
+setup.py
+src/__init__.py
+src/task_manage.py
+src/test_task_manage.py
+src/data/__init__.py
+src/data/notion_task_manager.py
+tests/__init__.py
+tests/test.py
+tests/test_notion_task_manager.py
+weekly_tasks_script.egg-info/PKG-INFO
+weekly_tasks_script.egg-info/SOURCES.txt
+weekly_tasks_script.egg-info/dependency_links.txt
+weekly_tasks_script.egg-info/entry_points.txt
+weekly_tasks_script.egg-info/requires.txt
+weekly_tasks_script.egg-info/top_level.txt
